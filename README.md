@@ -1,2 +1,3 @@
 # Kmeans-GUI
-a K-means demo GUI.，convenient to show
+a K-means  GUI demo，coding by Matlab GUI, convenient to show!
+
